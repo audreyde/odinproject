@@ -25,11 +25,20 @@ body {
 }
 
 .navbar-items {
-
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 .navbar-items li {
     float: right;
+}
+
+.navbar-items li a {
+	display: block;
+	text-align: center;
+	padding: 14px 10px;
+	font-size: 13px;
 }
 
 .buttons {
