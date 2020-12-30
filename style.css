@@ -11,12 +11,6 @@ body {
    margin: 0 auto; 
 }
 
-.navbar {
-    width: 100%;
-    height: 50px;
-    margin-bottom: 50px;
-}
-
 .searchbar {
     display: block;
     text-align: center;
@@ -39,6 +33,12 @@ body {
 	text-align: center;
 	padding: 14px 10px;
 	font-size: 13px;
+}
+
+.navbar {
+    width: 100%;
+    height: 50px;
+    margin-bottom: 150px;
 }
 
 .buttons {
