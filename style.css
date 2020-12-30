@@ -24,6 +24,14 @@ body {
     border-radius: 45px;
 }
 
+.navbar-items {
+
+}
+
+.navbar-items li {
+    float: right;
+}
+
 .buttons {
     display: block;
 }
