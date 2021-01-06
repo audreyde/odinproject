@@ -48,13 +48,12 @@ body {
     display: block;
 }
 
-.search-button {
+.search {
     margin: 30px 5px;
     padding: 10px 20px;
     background-color: #f8f9fa;
     border: 1px solid #dadce0;
     color: #202124;
-
 }
 
 .logo {
